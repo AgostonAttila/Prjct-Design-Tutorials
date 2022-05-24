@@ -2,6 +2,6 @@
 Some skeleton with AdobeXD,Figma,SketchUI,Invison etc...
 
 <img src="Dashboard+Project.png"  >
-<img src="Dashboard-tutorial1.png" >
+<img src="Dashboard-tutorial.png" >
 
 
